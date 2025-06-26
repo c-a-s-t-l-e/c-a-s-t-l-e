@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a PhD in Data Science and Engineering at the University of Tennessee through the [Bredesen Center](https://bredesencenter.utk.edu).
 - 👯 I’m looking to collaborate on open source projects that involve **transportation, legal, and/or open government data** in general.
 - 📫 How to reach me: **castle676767 @ gee mail .com**
+- ✍️ Feel free to check out [my blog](https://c-a-s-t-l-e.github.io).
 
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
