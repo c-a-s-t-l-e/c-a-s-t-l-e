@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 -->
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-a-s-t-l-e&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=c-a-s-t-l-e&show_icons=true&theme=radical&bg_color=2D2D2D&title_color=FF8200&text_color=FFFFFF&icon_color=FF8200)
